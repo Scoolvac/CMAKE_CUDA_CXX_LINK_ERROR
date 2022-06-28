@@ -9,7 +9,7 @@ namespace test
 namespace func3
 {
 
-__device__ __host__ inline  float AddThree(float x)
+__device__ __host__ float AddThree(float x)
 {
     return func1::AddOne(x) + func2::AddTwo(x);
 }

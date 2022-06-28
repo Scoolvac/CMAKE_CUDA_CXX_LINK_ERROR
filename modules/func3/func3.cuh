@@ -8,7 +8,7 @@ namespace test
 namespace func3
 {
 
-__device__ __host__ inline  float AddThree(float x);
+__device__ __host__  float AddThree(float x);
 
 } // namespace func3
 } // namespace test

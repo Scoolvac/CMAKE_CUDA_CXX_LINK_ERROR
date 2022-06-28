@@ -1,3 +1,5 @@
 add_subdirectory(func1)
 add_subdirectory(func2)
 add_subdirectory(func3)
+add_subdirectory(func4)
+add_subdirectory(utils)
